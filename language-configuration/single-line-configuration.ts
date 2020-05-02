@@ -1,34 +1,34 @@
-{
-  "//": [
-    "c",
-    "cpp",
-    "csharp",
-    "fsharp",
-    "go",
-    "groovy",
-    "java",
-    "javascript",
-    "less",
-    "objective-c",
-    "objective-cpp",
-    "php",
-    "rust",
-    "scss",
-    "swift",
-    "typescript"
-  ],
-  "#": [
-    "coffeescript",
-    "dockerfile",
-    "makefile",
-    "perl",
-    "powershell",
-    "python",
-    "r",
-    "ruby",
-    "yaml"
-  ],
-  ";": [
-    "clojure"
-  ]
-}
+export const singleLineConfig = {
+	'//': [
+		'c',
+		'cpp',
+		'csharp',
+		'fsharp',
+		'go',
+		'groovy',
+		'java',
+		'javascript',
+		'less',
+		'objective-c',
+		'objective-cpp',
+		'php',
+		'rust',
+		'scss',
+		'swift',
+		'typescript'
+	],
+	'#': [
+		'coffeescript',
+		'dockerfile',
+		'makefile',
+		'perl',
+		'powershell',
+		'python',
+		'r',
+		'ruby',
+		'yaml'
+	],
+	';': [
+		'clojure'
+	]
+};
